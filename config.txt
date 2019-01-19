@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= sh
+game= Shhelp
+stayinchannel=true
+songinstatus=true 
+token=NTM2MjMwNjUwNDE2NzI2MDM2.DyTrlw.xplu2ckNRe-s5YjGsERfp0bfnGY
+owner=422101583434874894
